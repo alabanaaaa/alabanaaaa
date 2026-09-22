@@ -1,16 +1,31 @@
-## Hi there 👋
+# LABAN BUSAKA
 
-<!--
-**alabanaaaa/alabanaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student · Nairobi, Kenya
+Aspiring AI engineer.
 
-Here are some ideas to get you started:
+I build local-first systems with brutalist interfaces —
+software that explains itself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## NOW
+
+**NORTHSTAR** — an intelligence layer for small businesses.
+CSV → deterministic facts → local LLM interpretation → owner decision → outcome.
+The app calculates. The model interprets. Never the other way around.
+
+## SELECTED WORK
+
+| | |
+|---|---|
+| **northstar** | SME intelligence. Deterministic fact engine + LM Studio interpretation layer. JavaScript, zero dependencies, local-first. |
+| **minidb** | A small database engine in Go. |
+| **pension-manager** | Pension administration system in Go. |
+
+## INTERESTS
+
+LLM systems · local-first software · databases · brutalist interfaces
+
+---
+
+*less, but better.*
